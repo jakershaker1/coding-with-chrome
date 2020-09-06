@@ -121,3 +121,5 @@ Coding with Chrome is made possible by other [open source software](NOTICE.md).
 [1]: https://chrome.google.com/webstore/detail/coding-with-chrome/becloognjehhioodmnimnehjcibkloed
 [2]: https://github.com/google/coding-with-chrome/releases
 [3]: https://cla.developers.google.com/
+
+[![Run on Repl.it](https://repl.it/badge/github/jakershaker1/coding-with-chrome)](https://repl.it/github/jakershaker1/coding-with-chrome)
